@@ -1,0 +1,82 @@
+nav {
+    padding: 5px 0;
+    background-color: #d0d0d0;
+    margin: 0;
+}
+
+#brand {
+    color: #404040;
+    font-size: 150%;
+    margin: 0 20px 4px 0;
+    font-weight: 500;
+}
+
+.navItemText {
+    font-weight: 500;
+    color: #707070;
+}
+
+
+
+#emailInputContainer{
+    width: 500px;
+    margin: 0 auto;
+}
+
+#signUpButton {
+    margin: 0 5px;
+}
+
+#home {
+    padding-top: 25px;
+    color: grey;
+    margin-bottom: 0;
+}
+
+#about {
+    margin-top: 25px;
+    margin-bottom: 0;
+
+}
+
+.cardImg {
+    height: 250px;
+    width: auto;
+}
+
+#cardsContainer {
+    margin: 0 0 30px 0;
+}
+
+
+
+.download {
+    background-color: #E9ECEF;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.card {
+    background-color: #E9ECEF;
+    height: 100%;
+}
+
+.jumbotron {
+    border-radius: 0 !important;
+}
+
+.downloadImg {
+    width: 400px;
+    margin-top: 50px;
+}
+
+#dividingLine {
+    padding: 0;
+    margin: 0;
+    background-color: #E9ECEF;
+}
+
+body {
+    position: relative;
+}
+            
